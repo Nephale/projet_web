@@ -1,0 +1,7 @@
+Projet général du site :
+
+- Site sur l'ésotérisme (présentation de l'histoire d'objets, vente d'objet, vente de services...)
+
+ou 
+
+- Site d'information sur les fausses croyances (reptiliens, conspirationnisme, biais psychologiques, neuro-mythes)
