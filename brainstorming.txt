@@ -5,3 +5,7 @@ Projet général du site :
 ou 
 
 - Site d'information sur les fausses croyances (reptiliens, conspirationnisme, biais psychologiques, neuro-mythes)
+
+ou 
+
+- Site de location d'objets (et de services ?) : Rent World
